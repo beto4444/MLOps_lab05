@@ -30,5 +30,6 @@ There is no homework, only lab this time :)
 
 **Data**
 
+
 We will be using [Ames housing](https://www.openintro.org/book/statdata/?data=ames) dataset
 about house prices in 2006-2010 in Ames, Iowa.
