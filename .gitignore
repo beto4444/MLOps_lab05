@@ -208,3 +208,4 @@ __marimo__/
 
 mlflow-artifacts/
 /mlflow-artifacts
+data/mlflow.db
